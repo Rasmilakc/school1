@@ -3,3 +3,12 @@ git commit -m "msg"
 git branch -M main
 git remote add origin https://github.com/Rasmilakc/school1.git
 git push -u origin main
+git add . ---to take code
+git branch -M main
+git pull -u origin main
+git branch( new branchname)NewB
+git branch
+git checkout NewB
+git push-u origin NewB
+
+
