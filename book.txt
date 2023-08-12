@@ -1,1 +1,5 @@
 git add . ---to take code from working to staging
+git commit -m "msg"
+git branch -M main
+git remote add origin https://github.com/Rasmilakc/school1.git
+git push -u origin main
